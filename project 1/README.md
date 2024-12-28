@@ -38,7 +38,7 @@ This project involves plotting the land and water portions of India using topogr
         <li>project 1
             <ul>
                 <li>__pycache__</li>
-                <li>data</li>
+                <li>data (is not available here ) ➡️<a herf = "#" >download</a></li>
                 <li>image manipulation</li>
                 <li>plots</li>
                 <li>imageplot.py</li>

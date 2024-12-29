@@ -1,6 +1,5 @@
 <h1 style="text-align: center;">Project 1</h1>
 
-
 ### Folder Structure must be follows:
 
 <!-- ![Folder Structure](./rough/image.png) -->
@@ -12,7 +11,12 @@
 </p>
 
 <h3 style = "background-color :black; border-radius:10px; color :white; padding:5px;" >Plot Full Map of India Using `.xyz` or `.txt` File</h3>
+
+---
+
 This project involves plotting the map of India using topographic data provided in a `.txt` or `.xyz` file. The data is first converted to a CSV format and then visualized using PyGMT
+
+
 
 > **Data Conversion**: Convert the text data to CSV format for easier manipulation.</br>
 > **Full Map Plotting**: Plot the entire map of India using the CSV data.</br>
@@ -57,10 +61,10 @@ Simply using `pillow` module we do it.(this is a shortcut process otherwise you 
 >**plot** : using `pygmt` finally we plot the merged image</br>
 
 <div style="text-align: center; width:300px; margin: 0 auto;">
-    <img src="./rough/merged.png" alt="land">
+    <img src="./rough/merged.png" alt="land" width="300px">
 </div>
 
-    <h1>Thank You Sir</h1>
+<h1>Thank You Sir</h1>
 
 
 ---

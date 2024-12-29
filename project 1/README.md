@@ -10,7 +10,7 @@
 <a href="https://drive.google.com/drive/folders/185s6GPg_lCsxFv08o4BXslnWhguH9wIt?usp=drive_link">Click</a>
 </p>
 
-<h3 style = "background-color :black; border-radius:10px; color :white; padding:5px;" >Plot Full Map of India Using `.xyz` or `.txt` File</h3>
+<h3 align = "center" >Plot Full Map of India Using `.xyz` or `.txt` File</h3>
 
 ---
 
@@ -25,7 +25,7 @@ This project involves plotting the map of India using topographic data provided 
     <img src="./plots/Full%20image%20of%20india%20Topography.png" alt="Full Map of India Topography" width="300px">
 </div>
 <!-- --------------------------------------------------------- -->
-<h3 style = "background-color :black; border-radius:10px; color :white; padding:5px;" >Plot Land Portions of India</h3>
+<h3 align = "center" >Plot Land Portions of India</h3>
 
 This project involves plotting the land portions of India using topographic data provided in a `.txt` or `.xyz` file.and clip usnig `boundary.geojson` file:
 
@@ -37,7 +37,7 @@ This project involves plotting the land portions of India using topographic data
     <img src="./plots/croped%20image%20of%20india%20land.png" alt="Full Map of India Topography" width="300px">
 </div>
 <!-- -------------------------------------------------------------- -->
-<h3 style = "background-color :black; border-radius:10px; color :white; padding:5px;" >Plot water Portions of India</h3>
+<h3 align = "center" >Plot water Portions of India</h3>
 
 This project involves plotting the land portions of India using topographic data provided in a `.csv` file.and clip usnig `World_Seas_IHO_v3.shp` file:
 
@@ -52,7 +52,7 @@ This project involves plotting the land portions of India using topographic data
     <img style="padding:20px" src="./rough/output.png" alt="land" width = "300px">
 </div>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
-<h3 style = "background-color :black; border-radius:10px; color :white; padding:5px;" >Merge the land and water portion of India</h3>
+<h3 align = "center" >Merge the land and water portion of India</h3>
 
 Simply using `pillow` module we do it.(this is a shortcut process otherwise you can use geojson file to crop it)
 

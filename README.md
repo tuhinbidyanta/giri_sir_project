@@ -9,5 +9,5 @@
 
 ### project 2
 > How to load earth relif and plot and annotation on the plot......
- - [Code](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Thesis](https://github.com/matiassingers/awesome-readme)
+ - [Code](https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%202/main.ipynb) if preview is not available please download
+ - [Thesis](https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%202/README.md)

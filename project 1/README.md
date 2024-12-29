@@ -1,6 +1,6 @@
 <h1 align="center"> 📋Project 1</h1>
 
-### Folder Structure must be follows:
+### 📌 Folder Structure must be follows:
 
 <!-- ![Folder Structure](./rough/image.png) -->
 
@@ -11,7 +11,7 @@
 </p>
 
 
-<h3 align = "center" >Plot Full Map of India Using `.xyz` or `.txt` File</h3>
+<h3 align = "center" > 1️⃣ Plot Full Map of India Using `.xyz` or `.txt` File</h3>
 
 ---
 
@@ -32,7 +32,7 @@
 <br> 
 
 
-<h3 align = "center" >Plot Land Portions of India</h3>
+<h3 align = "center" > 2️⃣ Plot Land Portions of India</h3>
 
 ---
 
@@ -59,7 +59,7 @@ This project involves plotting the land portions of India using topographic data
 <!-- 4. **Merging Plots**: Merge the land and water plots together. (Note: Nepal, China, Bhutan, and Bangladesh are not included in the plot.) -->
 
 <!-- -------------------------------------------------------------- -->
-<h3 align = "center" >Plot water Portions of India</h3>
+<h3 align = "center" >3️⃣ Plot water Portions of India</h3>
 
 ---
 
@@ -102,7 +102,7 @@ This project involves plotting the land portions of India using topographic data
     
 </div>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
-<h3 align = "center" >Merge the land and water portion of India</h3>
+<h3 align = "center" >4️⃣ Merge the land and water portion of India</h3>
 
 ---
 
@@ -116,8 +116,31 @@ Simply using `pillow` module we do it.(this is a shortcut process otherwise you 
 <div style="text-align: center; width:300px; margin: 0 auto;">
     
 </div>
-
-<h1>Thank You </h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 align = "center">Thank You </h1>
 
 
 ---

@@ -21,23 +21,15 @@
 - save csv file
 - fixed the region 
 - plot
-```python
-file_path = "./data/topographic_data_india.csv"
 
-if os.path.exists(file_path):
-    print("File exists")
-else:
-    print("File does not exist")
-    df = pd.read_csv("./data/topography_data_india.txt", delim_whitespace=True)
-    df.to_csv("./data/topographic_data_india.csv", index=False,header=['longitude','latitude','depth'])
-    print("csv convertion successfull!")
-```
-$$\text{}$$
-$$\text{}$$
-$$\text{}$$
-$$\text{}$$
-$$\text{}$$
-$$\text{}$$   
+<br>
+<br>   
+<br>   
+<br> 
+<br>
+<br>   
+<br>   
+<br> 
 
 
 <h3 align = "center" >Plot Land Portions of India</h3>
@@ -73,9 +65,9 @@ This project involves plotting the land portions of India using topographic data
 
 This project involves plotting the land portions of India using topographic data provided in a `.csv` file.and clip usnig `World_Seas_IHO_v3.shp` file:
 - **Plot shp file**: Plot the shapefile of water portion of India.</br>
-
-> **Cropping water Portion**: Use a `.shp` file to crop and focus on India's water portion.</br>
-> **Water Portion Plotting**: Plot the water portion separately.
+<img style="padding:20px" src="./plots/croped image of india water.png" alt="water shape" width = "300px">
+- **Cropping water Portion**: Use a `.shp` file to crop and focus on India's water portion.</br>
+- **Water Portion Plotting**: Plot the water portion separately.
 <!-- 3. **Shapefile Integration**: Integrate shapefiles to enhance the map with additional geographical features. -->
 <!-- 4. **Merging Plots**: Merge the land and water plots together. (Note: Nepal, China, Bhutan, and Bangladesh are not included in the plot.) -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="padding:20px" src="./plots/croped image of india water.png" alt="water shape" width = "300px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="padding:20px" src="./rough/output.png" alt="land" width = "300px">

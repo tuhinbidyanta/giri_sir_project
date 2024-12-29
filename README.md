@@ -1,6 +1,6 @@
 
 ## Pygmt Project
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]([https://choosealicense.com/licenses/mit/](https://github.com/tuhinbidyanta/giri_sir_project/tree/main?tab=MIT-1-ov-file))
 
 ### project 1
 > plot indian maps in different typos......

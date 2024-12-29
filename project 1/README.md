@@ -64,7 +64,7 @@ Simply using `pillow` module we do it.(this is a shortcut process otherwise you 
     <img src="./rough/merged.png" alt="land" width="300px">
 </div>
 
-<h1>Thank You Sir</h1>
+<h1>Thank You </h1>
 
 
 ---

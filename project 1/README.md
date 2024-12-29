@@ -1,11 +1,11 @@
-<h1 style="text-align: center;">Project 1</h1>
+<h1 align="center">Project 1</h1>
 
 ### Folder Structure must be follows:
 
 <!-- ![Folder Structure](./rough/image.png) -->
-<div style="text-align: center;">
-    <img src="./rough/image.png" alt="Folder Structure">
-</div>
+
+<img src="./rough/image.png" alt="Folder Structure">
+
 <p>Data folder is not available on GitHub. You need to download it.
 <a href="https://drive.google.com/drive/folders/185s6GPg_lCsxFv08o4BXslnWhguH9wIt?usp=drive_link">Click</a>
 </p>

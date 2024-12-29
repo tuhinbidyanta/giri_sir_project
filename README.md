@@ -14,4 +14,14 @@
 
 ---
 used module
-![geopandas](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEwNnFoPnFoPnFoPnFoPnFoik14PnFoPnFoPnFoMnFoNnFoMnVoPnFoPnFr+yQX+yQX/zAD+yQX+yQX+yQUPnFrkGIXiHITiHITiHIRxj0/5AAAAGnRSTlMAUpPP8P8VrLtcIws909uQ/zlnxspYP/+1fPvI1aoAAAEBSURBVHgBhVMHEgIxCCSFVHv3/x91dpzEFcutFW7pIATnQ1SNwTv5gpSVkJMYeDXwwkgRulKTQKgFUiQnDYrcbbw2RUgrecMKuuEDqXcx6NC+8usvU++bAGFkmt79+yGtR5CsmuUXAU8Q4CdBRZxqkR+EouqgqOPhJmQBIa2DB8EhzTDLRbSNNOd6Us0gdNWAJggTgEEQtAIfJmx3uz0RdJlgQxyOJxDKDGGTHJhJcpkgnHNucrlcZpnUKBCefbheb7NR1GpLAGhYRJD7/TKHxeMGwY6bFoZCxOjnwvDKgZBae84CWru0NIswA/DaEwFo9nAyCOZwlk9v+XgJ52/n/wDCBw4Cy2/6JgAAAABJRU5ErkJggg==)
+<div>
+ <img height="40px" src = "https://geopandas.org/en/stable/_static/geopandas_logo_web.svg"> &nbsp; 
+ <img height="40px" src = "https://forum.generic-mapping-tools.org/uploads/default/original/1X/3640d9ae84122cb7ffaaae64601b32777fa113de.png">&nbsp; &nbsp;
+ <img height="40px" src = "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsFVmgcTDDwyGk6qXiy1cLuVioC6UDBFLApqZptsPjp9iGmBu5KYdRa2xOjeNUsjHmZaxNUhAogfyXfOR6r6VZ9yggD5Rx_AIoJEvIAw">&nbsp; &nbsp;
+ <img height="40px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s">&nbsp;
+ <img height="40px" src = "https://miro.medium.com/v2/resize:fit:1200/1*R2FcXfA80joVn1ru8_JhaQ.png">&nbsp;
+ <img height="40px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtD77NqsHehyobngnMQaSRAQc41uDJq-OyQ&s">&nbsp;
+ <img height="40px" src = "https://www.tutorialspoint.com/python_pillow/images/image_blend.jpg">&nbsp;
+</div>
+
+

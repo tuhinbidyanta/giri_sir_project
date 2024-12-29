@@ -64,19 +64,49 @@ This project involves plotting the land portions of India using topographic data
 ---
 
 This project involves plotting the land portions of India using topographic data provided in a `.csv` file.and clip usnig `World_Seas_IHO_v3.shp` file:
+<br>
+<img align="right" src="./plots/croped image of india water.png" alt="water shape" width = "300px">
 - **Plot shp file**: Plot the shapefile of water portion of India.</br>
-<img style="padding:20px" src="./plots/croped image of india water.png" alt="water shape" width = "300px">
-- **Cropping water Portion**: Use a `.shp` file to crop and focus on India's water portion.</br>
+    - first open the file in `geopandas`
+    - create base map
+    - fix the region
+    - plot the figure
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align = "right" src="./rough/output.png" alt="land" width = "300px">
+
+- **Cropping water Portion**: Use a `.shp` file to crop and focus on India's water portion.
 - **Water Portion Plotting**: Plot the water portion separately.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!-- 3. **Shapefile Integration**: Integrate shapefiles to enhance the map with additional geographical features. -->
 <!-- 4. **Merging Plots**: Merge the land and water plots together. (Note: Nepal, China, Bhutan, and Bangladesh are not included in the plot.) -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="padding:20px" src="./plots/croped image of india water.png" alt="water shape" width = "300px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="padding:20px" src="./rough/output.png" alt="land" width = "300px">
 <div style="text-align: center;justify-content:center; display:flex;width:300px;  margin: 0 auto;">
     
 </div>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <h3 align = "center" >Merge the land and water portion of India</h3>
 
+---
+
+<img align = "right" src="./rough/merged.png" alt="land" width="300px">
 Simply using `pillow` module we do it.(this is a shortcut process otherwise you can use geojson file to crop it)
 
 > **Transparent image**: Firstly we make transparent the `croped image of india water.png` and `croped image of india land.png`.</br>
@@ -84,7 +114,7 @@ Simply using `pillow` module we do it.(this is a shortcut process otherwise you 
 >**plot** : using `pygmt` finally we plot the merged image</br>
 
 <div style="text-align: center; width:300px; margin: 0 auto;">
-    <img src="./rough/merged.png" alt="land" width="300px">
+    
 </div>
 
 <h1>Thank You </h1>

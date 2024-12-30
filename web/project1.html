@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📋 Project 1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h3 {
+            text-align: center;
+            color: #3D2F59;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .center {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        .right {
+            float: right;
+            margin-left: 20px;
+            width: 300px;
+        }
+        .clear {
+            clear: both;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<h1>📋 Project 1</h1>
+
+<h3>📌 Folder Structure must be followed:</h3>
+<div class="center">
+    <img src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/rough/image.png?raw=true" alt="Folder Structure">
+</div>
+<p>Data folder is not available on GitHub. You need to download it. 
+    <a href="https://drive.google.com/drive/folders/185s6GPg_lCsxFv08o4BXslnWhguH9wIt?usp=drive_link">Click Here</a>
+</p>
+
+<div class="section">
+    <h3>1️⃣ Plot Full Map of India Using `.xyz` or `.txt` File</h3>
+    <img class="right" src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/plots/Full%20image%20of%20india%20Topography.png?raw=true" alt="Full Map of India Topography">
+    <ul>
+        <li>Convert `.txt` to `.csv` file</li>
+        <li>Save CSV file</li>
+        <li>Fix the region</li>
+        <li>Plot the map</li>
+    </ul>
+    <div class="clear"></div>
+</div>
+
+<div class="section">
+    <h3>2️⃣ Plot Land Portions of India</h3>
+    <img class="right" src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/plots/croped%20image%20of%20india%20land.png?raw=true" alt="Land Portion of India">
+    <p>This project involves plotting the land portions of India using topographic data provided in a `.txt` or `.xyz` file and cropping using a `boundary.geojson` file:</p>
+    <ul>
+        <li><b>Cropping Land Portion:</b> Use a GeoJSON file to crop and focus on India's land portion.</li>
+    </ul>
+    
+    <div class="clear"></div>
+</div>
+
+<div class="section">
+    <h3>3️⃣ Plot Water Portions of India</h3>
+    <img class="right" src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/plots/croped%20image%20of%20india%20water.png?raw=true" alt="Land Portion of India">
+    <img class="right" src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/rough/output.png?raw=true" alt="Water Portion of India">
+    <p>This project involves plotting the water portions of India using topographic data provided in a `.csv` file and cropping using the `World_Seas_IHO_v3.shp` file:</p>
+    <ul>
+        <li><b>Plot SHP File:</b> Plot the shapefile of the water portion of India.</li>
+        <ul>
+            <li>Open the file in GeoPandas</li>
+            <li>Create a base map</li>
+            <li>Fix the region</li>
+            <li>Plot the figure</li>
+        </ul>
+        <li><b>Cropping Water Portion:</b> Use a `.shp` file to crop and focus on India's water portion.</li>
+    </ul>
+    <div class="clear"></div>
+</div>
+
+<div class="section">
+    <h3>4️⃣ Merge the Land and Water Portions of India</h3>
+    <img class="right" src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/rough/merged.png?raw=true" alt="Merged Land and Water">
+    <p>Using the `Pillow` module, we can merge land and water portions of India (this is a shortcut process; otherwise, you can use a GeoJSON file for cropping):</p>
+    <ul>
+        <li><b>Transparent Image:</b> Make `croped image of india water.png` and `croped image of india land.png` transparent.</li>
+        <li><b>Merge Them:</b> Merge the images using the `Pillow` module.</li>
+        <li><b>Plot:</b> Finally, plot the merged image using PyGMT.</li>
+    </ul>
+    <div class="clear"></div>
+</div>
+
+<h1>Thank You</h1>
+
+</body>
+</html>

@@ -4,7 +4,7 @@
 
 <!-- ![Folder Structure](./rough/image.png) -->
 
-<img src="./rough/image.png" alt="Folder Structure">
+<img src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/rough/image.png" alt="Folder Structure">
 
 <p>Data folder is not available on GitHub. You need to download it.
 <a href="https://drive.google.com/drive/folders/185s6GPg_lCsxFv08o4BXslnWhguH9wIt?usp=drive_link">Click</a>
@@ -15,7 +15,7 @@
 
 ---
 
-<img align ="right" src="./plots/Full%20image%20of%20india%20Topography.png" alt="Full Map of India Topography" width="300px">
+<img align ="right" src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/plots/Full%20image%20of%20india%20Topography.png" alt="Full Map of India Topography" width="300px">
 
 - convert `.txt` to `.csv` file
 - save csv file
@@ -37,7 +37,7 @@
 ---
 
 <div style="text-align: center;">
-    <img align = "right" src="./plots/croped%20image%20of%20india%20land.png" alt="Full Map of India Topography" width="300px">
+    <img align = "right" src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/plots/croped%20image%20of%20india%20land.png" alt="Full Map of India Topography" width="300px">
 </div>
 
 
@@ -65,7 +65,7 @@ This project involves plotting the land portions of India using topographic data
 
 This project involves plotting the land portions of India using topographic data provided in a `.csv` file.and clip usnig `World_Seas_IHO_v3.shp` file:
 <br>
-<img align="right" src="./plots/croped image of india water.png" alt="water shape" width = "300px">
+<img align="right" src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/plots/croped image of india water.png" alt="water shape" width = "300px">
 - **Plot shp file**: Plot the shapefile of water portion of India.</br>
     - first open the file in `geopandas`
     - create base map
@@ -80,7 +80,7 @@ This project involves plotting the land portions of India using topographic data
 <br>
 <br>
 
-<img align = "right" src="./rough/output.png" alt="land" width = "300px">
+<img align = "right" src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/rough/output.png" alt="land" width = "300px">
 
 - **Cropping water Portion**: Use a `.shp` file to crop and focus on India's water portion.
 - **Water Portion Plotting**: Plot the water portion separately.
@@ -106,7 +106,7 @@ This project involves plotting the land portions of India using topographic data
 
 ---
 
-<img align = "right" src="./rough/merged.png" alt="land" width="300px">
+<img align = "right" src="https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%201/rough/merged.png" alt="land" width="300px">
 Simply using `pillow` module we do it.(this is a shortcut process otherwise you can use geojson file to crop it)
 
 > **Transparent image**: Firstly we make transparent the `croped image of india water.png` and `croped image of india land.png`.</br>

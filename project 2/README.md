@@ -4,7 +4,7 @@
 
 ---
 
-<img align = "right" src = "https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%202/plots/earth40-40_30-100.png" width = "400px">
+<img align = "right" src = "https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%202/plots/earth40-40_30-100.png?raw=true" width = "400px">
 
 - Load pygmt earth relief data
 - Define the region [ 30,100,-40,40]
@@ -28,7 +28,7 @@
 
 ---
 
-<img align = "right" src = "https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%202/plots/anotate.png" width = "400px">
+<img align = "right" src = "https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%202/plots/anotate.png?raw=true" width = "400px">
 
 - Load pygmt earth relief data
 - Define the region [ 30,100,-40,40]
@@ -51,7 +51,7 @@
 
 ---
 
-<img align = "right" src = "https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%202/plots/tripple%20jun.png" width = "400px">
+<img align = "right" src = "https://github.com/tuhinbidyanta/giri_sir_project/blob/main/project%202/plots/tripple jun.png?raw=true" width = "400px">
 
 - Load pygmt earth relief data
 - Define the region [ 30,100,-40,40]
